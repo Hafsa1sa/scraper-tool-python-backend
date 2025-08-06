@@ -1,0 +1,420 @@
+2025-08-05 10:06:22,732 - __main__ - INFO - ============================================================
+2025-08-05 10:06:22,733 - __main__ - INFO - 🚀 DÉMARRAGE DE L'APPLICATION SCRAPER_TOOL
+2025-08-05 10:06:22,733 - __main__ - INFO - ============================================================
+2025-08-05 10:06:22,925 - FreelancerScraper - INFO - 🚀 FreelancerScraper initialisé avec succès
+2025-08-05 10:06:22,926 - routes.freelancer_routes - INFO - 📋 Routes enregistrées avec succès
+2025-08-05 10:06:22,926 - __main__ - INFO - 📊 Configuration:
+2025-08-05 10:06:22,926 - __main__ - INFO -    - Host: 0.0.0.0
+2025-08-05 10:06:22,927 - __main__ - INFO -    - Port: 5005
+2025-08-05 10:06:22,927 - __main__ - INFO -    - Debug: ❌ Désactivé
+2025-08-05 10:06:22,927 - __main__ - INFO -    - Mock Mode: ✅ Activé
+2025-08-05 10:06:22,928 - __main__ - INFO -    - Log Level: INFO
+2025-08-05 10:06:22,928 - __main__ - INFO - 🌐 Serveur Flask démarré avec succès!
+2025-08-05 10:06:22,928 - __main__ - INFO - 📡 Accessible sur: http://0.0.0.0:5005
+2025-08-05 10:06:22,928 - __main__ - INFO - ============================================================
+2025-08-05 10:06:22,943 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://172.30.57.8:5005
+2025-08-05 10:06:22,943 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 10:13:16,792 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-05 10:13:16,793 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-05 10:13:16,793 - routes.freelancer_routes - INFO -    - User-Agent: PostmanRuntime/7.43.4...
+2025-08-05 10:13:16,793 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 3}
+2025-08-05 10:13:16,793 - routes.freelancer_routes - INFO - 🎯 [req_1754385196] Début du traitement de la demande d'offres
+2025-08-05 10:13:16,793 - routes.freelancer_routes - INFO - 📊 [req_1754385196] Paramètres reçus:
+2025-08-05 10:13:16,794 - routes.freelancer_routes - INFO -    - Count demandé: 3
+2025-08-05 10:13:16,794 - routes.freelancer_routes - INFO - 🎭 [req_1754385196] Mode MOCK activé - Simulation des données
+2025-08-05 10:13:17,294 - routes.freelancer_routes - INFO - ✅ [req_1754385196] Données mockées retournées avec succès
+2025-08-05 10:13:17,295 - routes.freelancer_routes - INFO -    - Projets retournés: 3
+2025-08-05 10:13:17,296 - routes.freelancer_routes - INFO -    - Temps d'exécution: 0.50s
+2025-08-05 10:13:17,296 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-05 10:13:17,297 - routes.freelancer_routes - INFO -    - Taille: 1666 bytes
+2025-08-05 10:13:17,299 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 10:13:17] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
+2025-08-05 10:31:34,994 - __main__ - INFO - ============================================================
+2025-08-05 10:31:34,994 - __main__ - INFO - 🚀 DÉMARRAGE DE L'APPLICATION SCRAPER_TOOL
+2025-08-05 10:31:34,995 - __main__ - INFO - ============================================================
+2025-08-05 10:31:35,199 - FreelancerScraper - INFO - 🚀 FreelancerScraper initialisé avec succès
+2025-08-05 10:31:35,200 - routes.freelancer_routes - INFO - 📋 Routes enregistrées avec succès
+2025-08-05 10:31:35,200 - __main__ - INFO - 📊 Configuration:
+2025-08-05 10:31:35,200 - __main__ - INFO -    - Host: 0.0.0.0
+2025-08-05 10:31:35,200 - __main__ - INFO -    - Port: 5005
+2025-08-05 10:31:35,200 - __main__ - INFO -    - Debug: ❌ Désactivé
+2025-08-05 10:31:35,201 - __main__ - INFO -    - Mock Mode: ❌ Désactivé
+2025-08-05 10:31:35,201 - __main__ - INFO -    - Log Level: INFO
+2025-08-05 10:31:35,201 - __main__ - INFO - 🌐 Serveur Flask démarré avec succès!
+2025-08-05 10:31:35,201 - __main__ - INFO - 📡 Accessible sur: http://0.0.0.0:5005
+2025-08-05 10:31:35,201 - __main__ - INFO - ============================================================
+2025-08-05 10:31:35,216 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://172.30.57.8:5005
+2025-08-05 10:31:35,217 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 10:32:53,989 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-05 10:32:53,989 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-05 10:32:53,990 - routes.freelancer_routes - INFO -    - User-Agent: PostmanRuntime/7.43.4...
+2025-08-05 10:32:53,990 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 3}
+2025-08-05 10:32:53,990 - routes.freelancer_routes - INFO - 🎯 [req_1754386373] Début du traitement de la demande d'offres
+2025-08-05 10:32:53,990 - routes.freelancer_routes - INFO - 📊 [req_1754386373] Paramètres reçus:
+2025-08-05 10:32:53,991 - routes.freelancer_routes - INFO -    - Count demandé: 3
+2025-08-05 10:32:53,991 - routes.freelancer_routes - INFO - 🔥 [req_1754386373] Mode PRODUCTION - Scraping réel des données
+2025-08-05 10:32:53,991 - routes.freelancer_routes - INFO - 📄 [req_1754386373] Configuration du scraping:
+2025-08-05 10:32:53,991 - routes.freelancer_routes - INFO -    - Pages à scraper: 1
+2025-08-05 10:32:53,991 - routes.freelancer_routes - INFO -    - Projets par page: 10
+2025-08-05 10:32:53,992 - FreelancerScraper - INFO - ==================================================
+2025-08-05 10:32:53,992 - FreelancerScraper - INFO - 🎯 DÉBUT DU SCRAPING
+2025-08-05 10:32:53,992 - FreelancerScraper - INFO -    - Pages maximum: 1
+2025-08-05 10:32:53,992 - FreelancerScraper - INFO - ==================================================
+2025-08-05 10:32:53,992 - FreelancerScraper - INFO - 📄 Scraping de la page 1...
+2025-08-05 10:33:27,943 - FreelancerScraper - INFO - ✅ Page 1 terminée en 33.95s
+2025-08-05 10:33:27,943 - FreelancerScraper - INFO -    - Projets trouvés: 25
+2025-08-05 10:33:27,944 - FreelancerScraper - INFO -    - Total cumulé: 25
+2025-08-05 10:33:28,944 - FreelancerScraper - INFO - 🏁 Limite de pages atteinte (1)
+2025-08-05 10:33:28,945 - FreelancerScraper - INFO - ==================================================
+2025-08-05 10:33:28,945 - FreelancerScraper - INFO - 🏆 SCRAPING TERMINÉ
+2025-08-05 10:33:28,945 - FreelancerScraper - INFO -    - Projets récupérés: 25
+2025-08-05 10:33:28,946 - FreelancerScraper - INFO -    - Pages traitées: 1
+2025-08-05 10:33:28,946 - FreelancerScraper - INFO -    - Temps total: 34.95s
+2025-08-05 10:33:28,946 - FreelancerScraper - INFO -    - Moyenne par page: 34.95s
+2025-08-05 10:33:28,947 - FreelancerScraper - INFO - ==================================================
+2025-08-05 10:33:28,947 - routes.freelancer_routes - INFO - ✅ [req_1754386373] Scraping réel terminé avec succès
+2025-08-05 10:33:28,947 - routes.freelancer_routes - INFO -    - Projets trouvés: 25
+2025-08-05 10:33:28,947 - routes.freelancer_routes - INFO -    - Projets retournés: 3
+2025-08-05 10:33:28,948 - routes.freelancer_routes - INFO -    - Pages scrapées: 1
+2025-08-05 10:33:28,948 - routes.freelancer_routes - INFO -    - Temps d'exécution: 34.96s
+2025-08-05 10:33:28,949 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-05 10:33:28,950 - routes.freelancer_routes - INFO -    - Taille: 1485 bytes
+2025-08-05 10:33:28,951 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 10:33:28] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
+2025-08-05 10:35:42,801 - __main__ - INFO - ============================================================
+2025-08-05 10:35:42,801 - __main__ - INFO - 🚀 DÉMARRAGE DE L'APPLICATION SCRAPER_TOOL
+2025-08-05 10:35:42,802 - __main__ - INFO - ============================================================
+2025-08-05 10:35:42,915 - FreelancerScraper - INFO - 🚀 FreelancerScraper initialisé avec succès
+2025-08-05 10:35:42,916 - routes.freelancer_routes - INFO - 📋 Routes enregistrées avec succès
+2025-08-05 10:35:42,917 - __main__ - INFO - 📊 Configuration:
+2025-08-05 10:35:42,917 - __main__ - INFO -    - Host: 0.0.0.0
+2025-08-05 10:35:42,917 - __main__ - INFO -    - Port: 5005
+2025-08-05 10:35:42,917 - __main__ - INFO -    - Debug: ❌ Désactivé
+2025-08-05 10:35:42,918 - __main__ - INFO -    - Mock Mode: ❌ Désactivé
+2025-08-05 10:35:42,918 - __main__ - INFO -    - Log Level: INFO
+2025-08-05 10:35:42,918 - __main__ - INFO - 🌐 Serveur Flask démarré avec succès!
+2025-08-05 10:35:42,918 - __main__ - INFO - 📡 Accessible sur: http://0.0.0.0:5005
+2025-08-05 10:35:42,918 - __main__ - INFO - ============================================================
+2025-08-05 10:35:42,930 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://172.30.57.8:5005
+2025-08-05 10:35:42,930 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 10:35:55,381 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-05 10:35:55,381 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-05 10:35:55,381 - routes.freelancer_routes - INFO -    - User-Agent: PostmanRuntime/7.43.4...
+2025-08-05 10:35:55,381 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 2}
+2025-08-05 10:35:55,382 - routes.freelancer_routes - INFO - 🎯 [req_1754386555] Début du traitement de la demande d'offres
+2025-08-05 10:35:55,382 - routes.freelancer_routes - INFO - 📊 [req_1754386555] Paramètres reçus:
+2025-08-05 10:35:55,382 - routes.freelancer_routes - INFO -    - Count demandé: 2
+2025-08-05 10:35:55,382 - routes.freelancer_routes - INFO - 🔥 [req_1754386555] Mode PRODUCTION - Scraping réel des données
+2025-08-05 10:35:55,382 - routes.freelancer_routes - INFO - 📄 [req_1754386555] Configuration du scraping:
+2025-08-05 10:35:55,382 - routes.freelancer_routes - INFO -    - Pages à scraper: 1
+2025-08-05 10:35:55,382 - routes.freelancer_routes - INFO -    - Projets par page: 10
+2025-08-05 10:35:55,383 - FreelancerScraper - INFO - ==================================================
+2025-08-05 10:35:55,383 - FreelancerScraper - INFO - 🎯 DÉBUT DU SCRAPING
+2025-08-05 10:35:55,383 - FreelancerScraper - INFO -    - Pages maximum: 1
+2025-08-05 10:35:55,383 - FreelancerScraper - INFO - ==================================================
+2025-08-05 10:35:55,383 - FreelancerScraper - INFO - 📄 Scraping de la page 1...
+2025-08-05 10:36:47,139 - FreelancerScraper - INFO - ✅ Page 1 terminée en 51.76s
+2025-08-05 10:36:47,140 - FreelancerScraper - INFO -    - Projets trouvés: 25
+2025-08-05 10:36:47,140 - FreelancerScraper - INFO -    - Total cumulé: 25
+2025-08-05 10:36:48,141 - FreelancerScraper - INFO - 🏁 Limite de pages atteinte (1)
+2025-08-05 10:36:48,141 - FreelancerScraper - INFO - ==================================================
+2025-08-05 10:36:48,142 - FreelancerScraper - INFO - 🏆 SCRAPING TERMINÉ
+2025-08-05 10:36:48,142 - FreelancerScraper - INFO -    - Projets récupérés: 25
+2025-08-05 10:36:48,142 - FreelancerScraper - INFO -    - Pages traitées: 1
+2025-08-05 10:36:48,143 - FreelancerScraper - INFO -    - Temps total: 52.76s
+2025-08-05 10:36:48,143 - FreelancerScraper - INFO -    - Moyenne par page: 52.76s
+2025-08-05 10:36:48,144 - FreelancerScraper - INFO - ==================================================
+2025-08-05 10:36:48,144 - routes.freelancer_routes - INFO - ✅ [req_1754386555] Scraping réel terminé avec succès
+2025-08-05 10:36:48,145 - routes.freelancer_routes - INFO -    - Projets trouvés: 25
+2025-08-05 10:36:48,145 - routes.freelancer_routes - INFO -    - Projets retournés: 2
+2025-08-05 10:36:48,146 - routes.freelancer_routes - INFO -    - Pages scrapées: 1
+2025-08-05 10:36:48,146 - routes.freelancer_routes - INFO -    - Temps d'exécution: 52.76s
+2025-08-05 10:36:48,147 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-05 10:36:48,147 - routes.freelancer_routes - INFO -    - Taille: 869 bytes
+2025-08-05 10:36:48,148 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 10:36:48] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
+2025-08-05 12:16:37,071 - routes.freelancer_routes - INFO - 📥 Requête reçue: GET http://localhost:5005/tools/get_freelancer_offres
+2025-08-05 12:16:37,074 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-05 12:16:37,074 - routes.freelancer_routes - INFO -    - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-08-05 12:16:37,076 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 405
+2025-08-05 12:16:37,077 - routes.freelancer_routes - INFO -    - Taille: 153 bytes
+2025-08-05 12:16:37,079 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:16:37] "[31m[1mGET /tools/get_freelancer_offres HTTP/1.1[0m" 405 -
+2025-08-05 12:16:37,346 - routes.freelancer_routes - INFO - 📥 Requête reçue: GET http://localhost:5005/favicon.ico
+2025-08-05 12:16:37,347 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-05 12:16:37,348 - routes.freelancer_routes - INFO -    - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-08-05 12:16:37,349 - routes.freelancer_routes - WARNING - 🔍 Route non trouvée: http://localhost:5005/favicon.ico
+2025-08-05 12:16:37,350 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 404
+2025-08-05 12:16:37,350 - routes.freelancer_routes - INFO -    - Taille: 110 bytes
+2025-08-05 12:16:37,351 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:16:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 12:17:07,940 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-05 12:17:07,941 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-05 12:17:07,942 - routes.freelancer_routes - INFO -    - User-Agent: PostmanRuntime/7.43.4...
+2025-08-05 12:17:07,943 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 2}
+2025-08-05 12:17:07,944 - routes.freelancer_routes - INFO - 🎯 [req_1754392627] Début du traitement de la demande d'offres
+2025-08-05 12:17:07,945 - routes.freelancer_routes - INFO - 📊 [req_1754392627] Paramètres reçus:
+2025-08-05 12:17:07,946 - routes.freelancer_routes - INFO -    - Count demandé: 2
+2025-08-05 12:17:07,947 - routes.freelancer_routes - INFO - 🔥 [req_1754392627] Mode PRODUCTION - Scraping réel des données
+2025-08-05 12:17:07,947 - routes.freelancer_routes - INFO - 📄 [req_1754392627] Configuration du scraping:
+2025-08-05 12:17:07,948 - routes.freelancer_routes - INFO -    - Pages à scraper: 1
+2025-08-05 12:17:07,948 - routes.freelancer_routes - INFO -    - Projets par page: 10
+2025-08-05 12:17:07,949 - FreelancerScraper - INFO - ==================================================
+2025-08-05 12:17:07,950 - FreelancerScraper - INFO - 🎯 DÉBUT DU SCRAPING
+2025-08-05 12:17:07,950 - FreelancerScraper - INFO -    - Pages maximum: 1
+2025-08-05 12:17:07,951 - FreelancerScraper - INFO - ==================================================
+2025-08-05 12:17:07,952 - FreelancerScraper - INFO - 📄 Scraping de la page 1...
+2025-08-05 12:17:46,232 - FreelancerScraper - INFO - ✅ Page 1 terminée en 38.28s
+2025-08-05 12:17:46,233 - FreelancerScraper - INFO -    - Projets trouvés: 25
+2025-08-05 12:17:46,234 - FreelancerScraper - INFO -    - Total cumulé: 25
+2025-08-05 12:17:47,235 - FreelancerScraper - INFO - 🏁 Limite de pages atteinte (1)
+2025-08-05 12:17:47,236 - FreelancerScraper - INFO - ==================================================
+2025-08-05 12:17:47,237 - FreelancerScraper - INFO - 🏆 SCRAPING TERMINÉ
+2025-08-05 12:17:47,237 - FreelancerScraper - INFO -    - Projets récupérés: 25
+2025-08-05 12:17:47,238 - FreelancerScraper - INFO -    - Pages traitées: 1
+2025-08-05 12:17:47,238 - FreelancerScraper - INFO -    - Temps total: 39.29s
+2025-08-05 12:17:47,239 - FreelancerScraper - INFO -    - Moyenne par page: 39.29s
+2025-08-05 12:17:47,239 - FreelancerScraper - INFO - ==================================================
+2025-08-05 12:17:47,240 - routes.freelancer_routes - INFO - ✅ [req_1754392627] Scraping réel terminé avec succès
+2025-08-05 12:17:47,241 - routes.freelancer_routes - INFO -    - Projets trouvés: 25
+2025-08-05 12:17:47,241 - routes.freelancer_routes - INFO -    - Projets retournés: 2
+2025-08-05 12:17:47,242 - routes.freelancer_routes - INFO -    - Pages scrapées: 1
+2025-08-05 12:17:47,247 - routes.freelancer_routes - INFO -    - Temps d'exécution: 39.30s
+2025-08-05 12:17:47,249 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-05 12:17:47,251 - routes.freelancer_routes - INFO -    - Taille: 869 bytes
+2025-08-05 12:17:47,254 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:17:47] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
+2025-08-05 12:31:31,795 - __main__ - INFO - ============================================================
+2025-08-05 12:31:31,796 - __main__ - INFO - 🚀 DÉMARRAGE DE L'APPLICATION SCRAPER_TOOL
+2025-08-05 12:31:31,796 - __main__ - INFO - ============================================================
+2025-08-05 12:31:32,287 - FreelancerScraper - INFO - 🚀 FreelancerScraper initialisé avec succès
+2025-08-05 12:31:32,289 - routes.freelancer_routes - INFO - 📋 Routes enregistrées avec succès
+2025-08-05 12:31:32,289 - __main__ - INFO - 📊 Configuration:
+2025-08-05 12:31:32,289 - __main__ - INFO -    - Host: 0.0.0.0
+2025-08-05 12:31:32,289 - __main__ - INFO -    - Port: 5005
+2025-08-05 12:31:32,289 - __main__ - INFO -    - Debug: ❌ Désactivé
+2025-08-05 12:31:32,291 - __main__ - INFO -    - Mock Mode: ❌ Désactivé
+2025-08-05 12:31:32,291 - __main__ - INFO -    - Log Level: INFO
+2025-08-05 12:31:32,292 - __main__ - INFO - 🌐 Serveur Flask démarré avec succès!
+2025-08-05 12:31:32,292 - __main__ - INFO - 📡 Accessible sur: http://0.0.0.0:5005
+2025-08-05 12:31:32,292 - __main__ - INFO - ============================================================
+2025-08-05 12:31:32,383 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://172.30.57.8:5005
+2025-08-05 12:31:32,384 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 23:00:58,703 - __main__ - INFO - ============================================================
+2025-08-05 23:00:58,704 - __main__ - INFO - 🚀 DÉMARRAGE DE L'APPLICATION SCRAPER_TOOL
+2025-08-05 23:00:58,704 - __main__ - INFO - ============================================================
+2025-08-05 23:00:58,866 - FreelancerScraper - INFO - 🚀 FreelancerScraper initialisé avec succès
+2025-08-05 23:00:58,868 - routes.freelancer_routes - INFO - 📋 Routes enregistrées avec succès
+2025-08-05 23:00:58,868 - __main__ - INFO - 📊 Configuration:
+2025-08-05 23:00:58,868 - __main__ - INFO -    - Host: 0.0.0.0
+2025-08-05 23:00:58,868 - __main__ - INFO -    - Port: 5005
+2025-08-05 23:00:58,869 - __main__ - INFO -    - Debug: ❌ Désactivé
+2025-08-05 23:00:58,869 - __main__ - INFO -    - Mock Mode: ❌ Désactivé
+2025-08-05 23:00:58,869 - __main__ - INFO -    - Log Level: INFO
+2025-08-05 23:00:58,869 - __main__ - INFO - 🌐 Serveur Flask démarré avec succès!
+2025-08-05 23:00:58,870 - __main__ - INFO - 📡 Accessible sur: http://0.0.0.0:5005
+2025-08-05 23:00:58,870 - __main__ - INFO - ============================================================
+2025-08-05 23:00:58,884 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://172.16.5.144:5005
+2025-08-05 23:00:58,884 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 23:10:27,767 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-05 23:10:27,767 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-05 23:10:27,767 - routes.freelancer_routes - INFO -    - User-Agent: PostmanRuntime/7.45.0...
+2025-08-05 23:10:27,768 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 2}
+2025-08-05 23:10:27,769 - routes.freelancer_routes - INFO - 🎯 [req_1754431827] Début du traitement de la demande d'offres
+2025-08-05 23:10:27,769 - routes.freelancer_routes - INFO - 📊 [req_1754431827] Paramètres reçus:
+2025-08-05 23:10:27,769 - routes.freelancer_routes - INFO -    - Count demandé: 2
+2025-08-05 23:10:27,769 - routes.freelancer_routes - INFO - 🔥 [req_1754431827] Mode PRODUCTION - Scraping réel des données
+2025-08-05 23:10:27,769 - routes.freelancer_routes - INFO - 📄 [req_1754431827] Configuration du scraping:
+2025-08-05 23:10:27,769 - routes.freelancer_routes - INFO -    - Pages à scraper: 1
+2025-08-05 23:10:27,769 - routes.freelancer_routes - INFO -    - Projets par page: 10
+2025-08-05 23:10:27,770 - FreelancerScraper - INFO - ==================================================
+2025-08-05 23:10:27,770 - FreelancerScraper - INFO - 🎯 DÉBUT DU SCRAPING
+2025-08-05 23:10:27,770 - FreelancerScraper - INFO -    - Pages maximum: 1
+2025-08-05 23:10:27,770 - FreelancerScraper - INFO - ==================================================
+2025-08-05 23:10:27,770 - FreelancerScraper - INFO - 📄 Scraping de la page 1...
+2025-08-05 23:10:41,510 - FreelancerScraper - INFO - ✅ Page 1 terminée en 13.74s
+2025-08-05 23:10:41,510 - FreelancerScraper - INFO -    - Projets trouvés: 25
+2025-08-05 23:10:41,511 - FreelancerScraper - INFO -    - Total cumulé: 25
+2025-08-05 23:10:42,511 - FreelancerScraper - INFO - 🏁 Limite de pages atteinte (1)
+2025-08-05 23:10:42,512 - FreelancerScraper - INFO - ==================================================
+2025-08-05 23:10:42,513 - FreelancerScraper - INFO - 🏆 SCRAPING TERMINÉ
+2025-08-05 23:10:42,514 - FreelancerScraper - INFO -    - Projets récupérés: 25
+2025-08-05 23:10:42,514 - FreelancerScraper - INFO -    - Pages traitées: 1
+2025-08-05 23:10:42,515 - FreelancerScraper - INFO -    - Temps total: 14.74s
+2025-08-05 23:10:42,515 - FreelancerScraper - INFO -    - Moyenne par page: 14.74s
+2025-08-05 23:10:42,515 - FreelancerScraper - INFO - ==================================================
+2025-08-05 23:10:42,516 - routes.freelancer_routes - INFO - ✅ [req_1754431827] Scraping réel terminé avec succès
+2025-08-05 23:10:42,516 - routes.freelancer_routes - INFO -    - Projets trouvés: 25
+2025-08-05 23:10:42,518 - routes.freelancer_routes - INFO -    - Projets retournés: 2
+2025-08-05 23:10:42,518 - routes.freelancer_routes - INFO -    - Pages scrapées: 1
+2025-08-05 23:10:42,518 - routes.freelancer_routes - INFO -    - Temps d'exécution: 14.75s
+2025-08-05 23:10:42,520 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-05 23:10:42,520 - routes.freelancer_routes - INFO -    - Taille: 869 bytes
+2025-08-05 23:10:42,526 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 23:10:42] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
+2025-08-05 23:15:17,746 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-05 23:15:17,746 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-05 23:15:17,747 - routes.freelancer_routes - INFO -    - User-Agent: Java/17.0.12...
+2025-08-05 23:15:17,747 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 3}
+2025-08-05 23:15:17,748 - routes.freelancer_routes - INFO - 🎯 [req_1754432117] Début du traitement de la demande d'offres
+2025-08-05 23:15:17,748 - routes.freelancer_routes - INFO - 📊 [req_1754432117] Paramètres reçus:
+2025-08-05 23:15:17,748 - routes.freelancer_routes - INFO -    - Count demandé: 3
+2025-08-05 23:15:17,749 - routes.freelancer_routes - INFO - 🔥 [req_1754432117] Mode PRODUCTION - Scraping réel des données
+2025-08-05 23:15:17,749 - routes.freelancer_routes - INFO - 📄 [req_1754432117] Configuration du scraping:
+2025-08-05 23:15:17,750 - routes.freelancer_routes - INFO -    - Pages à scraper: 1
+2025-08-05 23:15:17,750 - routes.freelancer_routes - INFO -    - Projets par page: 10
+2025-08-05 23:15:17,750 - FreelancerScraper - INFO - ==================================================
+2025-08-05 23:15:17,751 - FreelancerScraper - INFO - 🎯 DÉBUT DU SCRAPING
+2025-08-05 23:15:17,751 - FreelancerScraper - INFO -    - Pages maximum: 1
+2025-08-05 23:15:17,751 - FreelancerScraper - INFO - ==================================================
+2025-08-05 23:15:17,752 - FreelancerScraper - INFO - 📄 Scraping de la page 1...
+2025-08-05 23:15:27,300 - FreelancerScraper - INFO - ✅ Page 1 terminée en 9.55s
+2025-08-05 23:15:27,300 - FreelancerScraper - INFO -    - Projets trouvés: 25
+2025-08-05 23:15:27,301 - FreelancerScraper - INFO -    - Total cumulé: 25
+2025-08-05 23:15:28,302 - FreelancerScraper - INFO - 🏁 Limite de pages atteinte (1)
+2025-08-05 23:15:28,303 - FreelancerScraper - INFO - ==================================================
+2025-08-05 23:15:28,303 - FreelancerScraper - INFO - 🏆 SCRAPING TERMINÉ
+2025-08-05 23:15:28,304 - FreelancerScraper - INFO -    - Projets récupérés: 25
+2025-08-05 23:15:28,304 - FreelancerScraper - INFO -    - Pages traitées: 1
+2025-08-05 23:15:28,305 - FreelancerScraper - INFO -    - Temps total: 10.55s
+2025-08-05 23:15:28,305 - FreelancerScraper - INFO -    - Moyenne par page: 10.55s
+2025-08-05 23:15:28,306 - FreelancerScraper - INFO - ==================================================
+2025-08-05 23:15:28,306 - routes.freelancer_routes - INFO - ✅ [req_1754432117] Scraping réel terminé avec succès
+2025-08-05 23:15:28,306 - routes.freelancer_routes - INFO -    - Projets trouvés: 25
+2025-08-05 23:15:28,307 - routes.freelancer_routes - INFO -    - Projets retournés: 3
+2025-08-05 23:15:28,308 - routes.freelancer_routes - INFO -    - Pages scrapées: 1
+2025-08-05 23:15:28,308 - routes.freelancer_routes - INFO -    - Temps d'exécution: 10.56s
+2025-08-05 23:15:28,310 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-05 23:15:28,310 - routes.freelancer_routes - INFO -    - Taille: 1485 bytes
+2025-08-05 23:15:28,311 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 23:15:28] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
+2025-08-06 00:00:08,726 - __main__ - INFO - ============================================================
+2025-08-06 00:00:08,726 - __main__ - INFO - 🚀 DÉMARRAGE DE L'APPLICATION SCRAPER_TOOL
+2025-08-06 00:00:08,727 - __main__ - INFO - ============================================================
+2025-08-06 00:00:08,997 - FreelancerScraper - INFO - 🚀 FreelancerScraper initialisé avec succès
+2025-08-06 00:00:08,999 - __main__ - INFO - 📊 Configuration:
+2025-08-06 00:00:08,999 - __main__ - INFO -    - Host: 0.0.0.0
+2025-08-06 00:00:08,999 - __main__ - INFO -    - Port: 5005
+2025-08-06 00:00:08,999 - __main__ - INFO -    - Debug: ❌ Désactivé
+2025-08-06 00:00:09,000 - __main__ - INFO -    - Mock Mode: ❌ Désactivé
+2025-08-06 00:00:09,000 - __main__ - INFO -    - Log Level: INFO
+2025-08-06 00:00:09,000 - __main__ - INFO - 🌐 Serveur Flask démarré avec succès!
+2025-08-06 00:00:09,000 - __main__ - INFO - 📡 Accessible sur: http://0.0.0.0:5005
+2025-08-06 00:00:09,001 - __main__ - INFO - ============================================================
+2025-08-06 00:00:09,037 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://172.16.5.144:5005
+2025-08-06 00:00:09,038 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-06 00:00:23,000 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-06 00:00:23,002 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-06 00:00:23,002 - routes.freelancer_routes - INFO -    - User-Agent: PostmanRuntime/7.45.0...
+2025-08-06 00:00:23,003 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 2}
+2025-08-06 00:00:23,004 - routes.freelancer_routes - INFO - 🎯 [req_1754434823] Début du traitement de la demande d'offres
+2025-08-06 00:00:23,004 - routes.freelancer_routes - INFO - 📊 [req_1754434823] Paramètres reçus:
+2025-08-06 00:00:23,005 - routes.freelancer_routes - INFO -    - Count demandé: 2
+2025-08-06 00:00:23,006 - routes.freelancer_routes - INFO - 🔥 [req_1754434823] Mode PRODUCTION - Scraping réel des données
+2025-08-06 00:00:23,006 - routes.freelancer_routes - INFO - 📄 [req_1754434823] Configuration du scraping:
+2025-08-06 00:00:23,007 - routes.freelancer_routes - INFO -    - Pages à scraper: 1
+2025-08-06 00:00:23,008 - routes.freelancer_routes - INFO -    - Projets par page: 10
+2025-08-06 00:00:23,009 - FreelancerScraper - INFO - ==================================================
+2025-08-06 00:00:23,010 - FreelancerScraper - INFO - 🎯 DÉBUT DU SCRAPING
+2025-08-06 00:00:23,010 - FreelancerScraper - INFO -    - Pages maximum: 1
+2025-08-06 00:00:23,011 - FreelancerScraper - INFO - ==================================================
+2025-08-06 00:00:23,011 - FreelancerScraper - INFO - 📄 Scraping de la page 1...
+2025-08-06 00:00:45,501 - FreelancerScraper - INFO - ✅ Page 1 terminée en 22.49s
+2025-08-06 00:00:45,501 - FreelancerScraper - INFO -    - Projets trouvés: 25
+2025-08-06 00:00:45,501 - FreelancerScraper - INFO -    - Total cumulé: 25
+2025-08-06 00:00:46,502 - FreelancerScraper - INFO - 🏁 Limite de pages atteinte (1)
+2025-08-06 00:00:46,503 - FreelancerScraper - INFO - ==================================================
+2025-08-06 00:00:46,503 - FreelancerScraper - INFO - 🏆 SCRAPING TERMINÉ
+2025-08-06 00:00:46,504 - FreelancerScraper - INFO -    - Projets récupérés: 25
+2025-08-06 00:00:46,504 - FreelancerScraper - INFO -    - Pages traitées: 1
+2025-08-06 00:00:46,505 - FreelancerScraper - INFO -    - Temps total: 23.49s
+2025-08-06 00:00:46,505 - FreelancerScraper - INFO -    - Moyenne par page: 23.49s
+2025-08-06 00:00:46,506 - FreelancerScraper - INFO - ==================================================
+2025-08-06 00:00:46,506 - routes.freelancer_routes - INFO - ✅ [req_1754434823] Scraping réel terminé avec succès
+2025-08-06 00:00:46,507 - routes.freelancer_routes - INFO -    - Projets trouvés: 25
+2025-08-06 00:00:46,508 - routes.freelancer_routes - INFO -    - Projets retournés: 2
+2025-08-06 00:00:46,511 - routes.freelancer_routes - INFO -    - Pages scrapées: 1
+2025-08-06 00:00:46,512 - routes.freelancer_routes - INFO -    - Temps d'exécution: 23.50s
+2025-08-06 00:00:46,513 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-06 00:00:46,514 - routes.freelancer_routes - INFO -    - Taille: 666 bytes
+2025-08-06 00:00:46,515 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 00:00:46] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
+2025-08-06 00:03:37,902 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-06 00:03:37,902 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-06 00:03:37,903 - routes.freelancer_routes - INFO -    - User-Agent: Java/17.0.12...
+2025-08-06 00:03:37,904 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 2}
+2025-08-06 00:03:37,908 - routes.freelancer_routes - INFO - 🎯 [req_1754435017] Début du traitement de la demande d'offres
+2025-08-06 00:03:37,909 - routes.freelancer_routes - INFO - 📊 [req_1754435017] Paramètres reçus:
+2025-08-06 00:03:37,911 - routes.freelancer_routes - INFO -    - Count demandé: 2
+2025-08-06 00:03:37,913 - routes.freelancer_routes - INFO - 🔥 [req_1754435017] Mode PRODUCTION - Scraping réel des données
+2025-08-06 00:03:37,915 - routes.freelancer_routes - INFO - 📄 [req_1754435017] Configuration du scraping:
+2025-08-06 00:03:37,916 - routes.freelancer_routes - INFO -    - Pages à scraper: 1
+2025-08-06 00:03:37,916 - routes.freelancer_routes - INFO -    - Projets par page: 10
+2025-08-06 00:03:37,917 - FreelancerScraper - INFO - ==================================================
+2025-08-06 00:03:37,918 - FreelancerScraper - INFO - 🎯 DÉBUT DU SCRAPING
+2025-08-06 00:03:37,919 - FreelancerScraper - INFO -    - Pages maximum: 1
+2025-08-06 00:03:37,927 - FreelancerScraper - INFO - ==================================================
+2025-08-06 00:03:37,928 - FreelancerScraper - INFO - 📄 Scraping de la page 1...
+2025-08-06 00:03:48,736 - FreelancerScraper - INFO - ✅ Page 1 terminée en 10.81s
+2025-08-06 00:03:48,736 - FreelancerScraper - INFO -    - Projets trouvés: 25
+2025-08-06 00:03:48,737 - FreelancerScraper - INFO -    - Total cumulé: 25
+2025-08-06 00:03:49,739 - FreelancerScraper - INFO - 🏁 Limite de pages atteinte (1)
+2025-08-06 00:03:49,741 - FreelancerScraper - INFO - ==================================================
+2025-08-06 00:03:49,741 - FreelancerScraper - INFO - 🏆 SCRAPING TERMINÉ
+2025-08-06 00:03:49,742 - FreelancerScraper - INFO -    - Projets récupérés: 25
+2025-08-06 00:03:49,743 - FreelancerScraper - INFO -    - Pages traitées: 1
+2025-08-06 00:03:49,744 - FreelancerScraper - INFO -    - Temps total: 11.82s
+2025-08-06 00:03:49,744 - FreelancerScraper - INFO -    - Moyenne par page: 11.82s
+2025-08-06 00:03:49,746 - FreelancerScraper - INFO - ==================================================
+2025-08-06 00:03:49,753 - routes.freelancer_routes - INFO - ✅ [req_1754435017] Scraping réel terminé avec succès
+2025-08-06 00:03:49,755 - routes.freelancer_routes - INFO -    - Projets trouvés: 25
+2025-08-06 00:03:49,755 - routes.freelancer_routes - INFO -    - Projets retournés: 2
+2025-08-06 00:03:49,756 - routes.freelancer_routes - INFO -    - Pages scrapées: 1
+2025-08-06 00:03:49,757 - routes.freelancer_routes - INFO -    - Temps d'exécution: 11.84s
+2025-08-06 00:03:49,760 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-06 00:03:49,762 - routes.freelancer_routes - INFO -    - Taille: 666 bytes
+2025-08-06 00:03:49,763 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 00:03:49] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
+2025-08-06 10:15:45,799 - routes.freelancer_routes - INFO - 📥 Requête reçue: POST http://localhost:5005/tools/get_freelancer_offres
+2025-08-06 10:15:45,801 - routes.freelancer_routes - INFO -    - IP: 127.0.0.1
+2025-08-06 10:15:45,801 - routes.freelancer_routes - INFO -    - User-Agent: Java/17.0.12...
+2025-08-06 10:15:45,803 - routes.freelancer_routes - INFO -    - Données JSON: {'count': 2}
+2025-08-06 10:15:45,803 - routes.freelancer_routes - INFO - 🎯 [req_1754471745] Début du traitement de la demande d'offres
+2025-08-06 10:15:45,805 - routes.freelancer_routes - INFO - 📊 [req_1754471745] Paramètres reçus:
+2025-08-06 10:15:45,806 - routes.freelancer_routes - INFO -    - Count demandé: 2
+2025-08-06 10:15:45,806 - routes.freelancer_routes - INFO - 🔥 [req_1754471745] Mode PRODUCTION - Scraping réel des données
+2025-08-06 10:15:45,808 - routes.freelancer_routes - INFO - 📄 [req_1754471745] Configuration du scraping:
+2025-08-06 10:15:45,808 - routes.freelancer_routes - INFO -    - Pages à scraper: 1
+2025-08-06 10:15:45,809 - routes.freelancer_routes - INFO -    - Projets par page: 10
+2025-08-06 10:15:45,809 - FreelancerScraper - INFO - ==================================================
+2025-08-06 10:15:45,810 - FreelancerScraper - INFO - 🎯 DÉBUT DU SCRAPING
+2025-08-06 10:15:45,811 - FreelancerScraper - INFO -    - Pages maximum: 1
+2025-08-06 10:15:45,812 - FreelancerScraper - INFO - ==================================================
+2025-08-06 10:15:45,813 - FreelancerScraper - INFO - 📄 Scraping de la page 1...
+2025-08-06 10:16:23,396 - FreelancerScraper - INFO - ✅ Page 1 terminée en 37.58s
+2025-08-06 10:16:23,396 - FreelancerScraper - INFO -    - Projets trouvés: 25
+2025-08-06 10:16:23,397 - FreelancerScraper - INFO -    - Total cumulé: 25
+2025-08-06 10:16:24,398 - FreelancerScraper - INFO - 🏁 Limite de pages atteinte (1)
+2025-08-06 10:16:24,399 - FreelancerScraper - INFO - ==================================================
+2025-08-06 10:16:24,399 - FreelancerScraper - INFO - 🏆 SCRAPING TERMINÉ
+2025-08-06 10:16:24,400 - FreelancerScraper - INFO -    - Projets récupérés: 25
+2025-08-06 10:16:24,401 - FreelancerScraper - INFO -    - Pages traitées: 1
+2025-08-06 10:16:24,401 - FreelancerScraper - INFO -    - Temps total: 38.59s
+2025-08-06 10:16:24,402 - FreelancerScraper - INFO -    - Moyenne par page: 38.59s
+2025-08-06 10:16:24,402 - FreelancerScraper - INFO - ==================================================
+2025-08-06 10:16:24,403 - routes.freelancer_routes - INFO - ✅ [req_1754471745] Scraping réel terminé avec succès
+2025-08-06 10:16:24,403 - routes.freelancer_routes - INFO -    - Projets trouvés: 25
+2025-08-06 10:16:24,403 - routes.freelancer_routes - INFO -    - Projets retournés: 2
+2025-08-06 10:16:24,403 - routes.freelancer_routes - INFO -    - Pages scrapées: 1
+2025-08-06 10:16:24,404 - routes.freelancer_routes - INFO -    - Temps d'exécution: 38.60s
+2025-08-06 10:16:24,405 - routes.freelancer_routes - INFO - 📤 Réponse envoyée: 200
+2025-08-06 10:16:24,407 - routes.freelancer_routes - INFO -    - Taille: 666 bytes
+2025-08-06 10:16:24,407 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 10:16:24] "POST /tools/get_freelancer_offres HTTP/1.1" 200 -
