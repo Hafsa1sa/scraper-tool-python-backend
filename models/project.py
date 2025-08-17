@@ -15,7 +15,7 @@ class Project:
             "platform": self.platform,
             "url": self.url,
             "budget": self.budget,
-            "datePosted": self.date_posted,
+            "date_posted": self.date_posted,
             "deadline": self.deadline
         }
 

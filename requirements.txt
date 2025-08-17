@@ -1,50 +1,9 @@
-# Requirements pour le serveur MCP Python
-# Fichier: requirements.txt
-
-# === MCP Core ===
-# Model Context Protocol pour Python
-mcp==1.0.0
-
-# === Web Scraping ===
-# Requests pour les appels HTTP
-requests>=2.31.0
-
-# BeautifulSoup pour le parsing HTML
-beautifulsoup4>=4.12.0
-
-# Selenium pour le scraping JavaScript (si nécessaire)
-selenium>=4.15.0
-
-# === Data Processing ===
-# Pandas pour l'analyse de données
-pandas>=2.0.0
-
-# NumPy pour les calculs numériques
-numpy>=1.24.0
-
-# === Async Support ===
-# AsyncIO support
-aiohttp>=3.8.0
-
-# === Environment Management ===
-# Variables d'environnement
-python-dotenv>=1.0.0
-
-# === Logging ===
-# Logging avancé
-loguru>=0.7.0
-
-# === Development ===
-# Type hints
-typing-extensions>=4.7.0
-
-# === Testing (optionnel) ===
-pytest>=7.4.0
-pytest-asyncio>=0.21.0
-
-# === Autres utilitaires ===
-# Gestion des dates
-python-dateutil>=2.8.0
-
-# JSON avancé
-orjson>=3.9.0
+Flask==2.3.3
+beautifulsoup4==4.12.2
+requests==2.31.0
+python-dotenv==1.0.0
+lxml==4.9.3
+# Dépendances optionnelles pour améliorer les performances
+# gunicorn==21.2.0  # Pour la production
+# redis==4.6.0      # Pour le cache (si nécessaire)
+# celery==5.3.1     # Pour les tâches asynchrones (si nécessaire)

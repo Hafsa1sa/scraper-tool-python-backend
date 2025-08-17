@@ -21,7 +21,7 @@ def get_mock_data():
             "platform": "freelancer.ma",
             "url": "https://freelancer.ma/projet/dev-mobile-react-native-123",
             "budget": "15000 MAD",
-            "datePosted": "Il y a 2 heures",
+            "date_posted": "Il y a 2 heures",
             "deadline": "Dans 15 jours"
         },
         {
@@ -30,7 +30,7 @@ def get_mock_data():
             "platform": "freelancer.ma",
             "url": "https://freelancer.ma/projet/site-ecommerce-wordpress-456",
             "budget": "8000 MAD",
-            "datePosted": "Il y a 5 heures",
+            "date_posted": "Il y a 5 heures",
             "deadline": "Dans 20 jours"
         },
         {
@@ -39,7 +39,7 @@ def get_mock_data():
             "platform": "freelancer.ma",
             "url": "https://freelancer.ma/projet/design-identite-visuelle-789",
             "budget": "5000 MAD",
-            "datePosted": "Il y a 1 jour",
+            "date_posted": "Il y a 1 jour",
             "deadline": "Dans 10 jours"
         },
         {
@@ -48,7 +48,7 @@ def get_mock_data():
             "platform": "freelancer.ma",
             "url": "https://freelancer.ma/projet/api-rest-nodejs-101",
             "budget": "12000 MAD",
-            "datePosted": "Il y a 3 heures",
+            "date_posted": "Il y a 3 heures",
             "deadline": "Dans 25 jours"
         },
         {
@@ -57,7 +57,7 @@ def get_mock_data():
             "platform": "freelancer.ma",
             "url": "https://freelancer.ma/projet/redaction-seo-tech-202",
             "budget": "3000 MAD",
-            "datePosted": "Il y a 6 heures",
+            "date_posted": "Il y a 6 heures",
             "deadline": "Dans 30 jours"
         }
     ]
